@@ -1,7 +1,7 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/foodie)
-  [![Instagram Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+  [![Instagram Follow](https://img.shields.io/badge/Instagram-f335ab?style=for-the-badge&logo=instagram&logoColor=white" alt="abhi_official__24)](https://instagram.com/developer_abhii?igshid=ZDdkNTZiNTM=)
 
   <br />
   <br />
@@ -14,7 +14,6 @@
 
 </div>
 
-<br />
 
 ### Demo Screeshots
 
