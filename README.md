@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://github.com/abhijeet1681/photographerportfolio.git)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/foodie)
   [![Instagram Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
 
   <br />
@@ -18,7 +18,7 @@
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](img/aa12.png "Desktop Demo")
+![Portfolio Desktop Demo](aa12.png "Desktop Demo")
 
 ### Prerequisites
 
