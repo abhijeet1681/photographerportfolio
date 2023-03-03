@@ -1,4 +1,3 @@
-# photographerportfolio
 <div align="center">
   
   ![GitHub repo size](https://github.com/abhijeet1681/photographerportfolio.git)
@@ -19,7 +18,7 @@
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](img/home-bg.jpg "Desktop Demo")
+![Portfolio Desktop Demo](img/aa12.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -39,7 +38,7 @@ git clone https://github.com/abhijeet1681/photographerportfolio.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Linkedin](#).
+If you want to contact with me you can reach me at [Linkedin](www.linkedin.com/in/abhijeet-jadhav-30b625211).
 
 ### License
 
